@@ -6,7 +6,7 @@ image: /images/vesseldet.png
 categories: research
 author: "Kevin Kasa"
 authors: "Giona Matasci, Jonathan Plante, <strong>Kevin Kasa</strong>, Payam Mousavi, Andrew Stewart, Andrew Macdonald, Anne Webster, Jennifer Busler"
-venue: "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XXIV ISPRS Congress ("
+venue: "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XXIV ISPRS Congress"
 arxiv: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2021/303/2021/isprs-annals-V-3-2021-303-2021.pdf
 
 ---
