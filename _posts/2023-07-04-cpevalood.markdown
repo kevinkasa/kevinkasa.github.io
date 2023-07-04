@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Empirically Validating Conformal Prediction on Modern Vision Architectures
-Under Distribution Shift and Long-tailed Data"
+title:  "Empirically Validating Conformal Prediction on Modern Vision Architectures Under Distribution Shift and Long-tailed Data"
 date:   2023-07-04 22:21:59 +00:00
 image: /images/covVSineff.png
 categories: research
