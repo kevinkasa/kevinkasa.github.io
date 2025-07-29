@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Adapting Prediction Sets to Distribution Shifts Without Labels"
+date:   2025-05-25 22:21:59 +00:00
+image: /images/cpadapt.png
+categories: research
+author: "Kevin Kasa"
+authors: "<strong>Kevin Kasa</strong>, Zhiyu Zhang, Heng Yang, Graham W. Taylor"
+venue: "Uncertainty in Artificial Intelligence (UAI) 2025"
+arxiv: https://arxiv.org/pdf/2406.01416
+code: https://github.com/uoguelph-mlrg/EaCP
+---
+Improving prediction set coverage on arbitrary and continous distribution shifts.

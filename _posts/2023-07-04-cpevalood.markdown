@@ -8,5 +8,6 @@ author: "Kevin Kasa"
 authors: "<strong>Kevin Kasa</strong>, Graham W. Taylor"
 venue: "ICML 2023 workshop on Structured Probabilistic Inference & Generative Modeling"
 arxiv: https://arxiv.org/pdf/2307.01088.pdf
+code: https://github.com/uoguelph-mlrg/confpred_eval
 ---
 Large-scale evaluations demonstrating the challenges of utilizing conformal prediction in distribution shift or long-tailed data regimes. 
